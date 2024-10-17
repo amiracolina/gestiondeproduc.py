@@ -1,0 +1,4 @@
+jugo,1000.0,2
+tomate,2000.0,1
+cebolla,5000.0,3
+silla y sofa,50000.0,23
